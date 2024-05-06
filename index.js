@@ -1,5 +1,5 @@
 let username ='fazt'
-let age =15
+let age =20
 let hobbies = false
 let points = [10,20,30]
 let uset ={
